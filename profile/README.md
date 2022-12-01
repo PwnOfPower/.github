@@ -1,5 +1,5 @@
 This is the official Pwn of Power CTF team.
-Born in 2022 we are motivated people willing to learn about exploiting, reverse engineering, web, and cryptography among others things.
+Born in 2022 we are motivated people willing to learn about exploiting, reverse engineering, web, and cryptography among other things.
 
 ## What we do?
 
